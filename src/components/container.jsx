@@ -1,6 +1,6 @@
 import React, {Component, Fragment} from 'react'
 import PropTypes from 'prop-types'
-//import foldersList from '../data/folders.json'
+import jsonfile from '../data/folders.json'
 import FileImg from "./fileimg"
 import Button from "./button"
 import FilesList from "./filelist"
@@ -216,7 +216,7 @@ class Container extends Component {
     render() {
         return (
             <Fragment>
-                {foldersList.map((folder, index) => (
+                {jsonfile.foldersList.map((folder, index) => (
                     <Button
                         key={index}
                         handleClick={this.handleClick}

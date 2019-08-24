@@ -4,19 +4,64 @@
     "title": "Import",
     "type": "Folder",
     "folderID": 0,
-    "id": 0
-  },
+    "id": 0,
+    "files": [
+      {
+        "title": "420.stl",
+        "type": "File",
+        "category": ".stl'",
+        "position": "En attente",
+        "picture": "<FileImg />",
+        "filament": "Chromatik",
+        "color": "Bleu",
+        "copy": 1,
+        "time": "3:00",
+        "size": "",
+        "fileID": 3
+      }
+      ]
+      },
   {
     "title": "Dossier1",
     "type": "Folder",
     "folderID": 1,
-    "id": 1
+    "id": 1,
+    "files": [
+      {
+        "title": "421.stl",
+        "type": "File",
+        "category": ".stl'",
+        "position": "En attente",
+        "picture": "<FileImg />",
+        "filament": "Chromatik",
+        "color": "Bleu",
+        "copy": 1,
+        "time": "3:00",
+        "size": "",
+        "fileID": 3
+      }
+    ]
   },
   {
     "title": "Dossier2",
     "type": "Folder",
     "folderID": 2,
-    "id": 2
+    "id": 2,
+    "files": [
+      {
+        "title": "422.stl",
+        "type": "File",
+        "category": ".stl'",
+        "position": "En attente",
+        "picture": "<FileImg />",
+        "filament": "Chromatik",
+        "color": "Bleu",
+        "copy": 1,
+        "time": "3:00",
+        "size": "",
+        "fileID": 3
+      }
+    ]
   }
 ]
 }

@@ -1,0 +1,22 @@
+{
+  "foldersList": [
+  {
+    "title": "Import",
+    "type": "Folder",
+    "folderID": 0,
+    "id": 0
+  },
+  {
+    "title": "Dossier1",
+    "type": "Folder",
+    "folderID": 1,
+    "id": 1
+  },
+  {
+    "title": "Dossier2",
+    "type": "Folder",
+    "folderID": 2,
+    "id": 2
+  }
+]
+}
